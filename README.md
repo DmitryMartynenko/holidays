@@ -20,7 +20,7 @@ https://www.codewars.com/kata/54ff3102c1bad923760001f3
 https://www.codewars.com/kata/53dbd5315a3c69eed20002dd
 
 6. Isograms
-https://www.codewars.com/kata/53dbd5315a3c69eed20002dd
+https://www.codewars.com/kata/54ba84be607a92aa900000f1
 
 7. Jaden Casing Strings
 https://www.codewars.com/kata/5390bac347d09b7da40006f6
